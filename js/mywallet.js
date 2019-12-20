@@ -51,7 +51,7 @@ var SERVERS_MAINNET = [
                    ];
 
 var SERVERS_TESTNET = [{
-                          host: 's.altnet.rippletest.net'
+                          host: 's.devnet.rippletest.net'
                           , port: 51233
                           , secure: true
                       }];
